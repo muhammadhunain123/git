@@ -5,5 +5,5 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. Possimus enim reiciend
 - item 1
 - item 2
 - item 3 `https/ecommmerce.com.pk`
-<img style="width: 25px;" height="500px" src="https://img.freepik.com/free-photo/smartphone-balancing-with-pink-background_23-2150271746.jpg?size=338&ext=jpg&ga=GA1.1.735520172.1711324800&semt=sph" alt="">
+<img style="width: 500px;" height="500px" src="https://img.freepik.com/free-photo/smartphone-balancing-with-pink-background_23-2150271746.jpg?size=338&ext=jpg&ga=GA1.1.735520172.1711324800&semt=sph" alt="">
 
